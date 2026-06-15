@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "harold-ryan",
+    "name": "Harold Ryan",
+    "epithet": "Big-game hunter and war hero, presumed dead, who returns Ody",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Harold Ryan:WJN:e904f0⟧"
+  },
+  {
+    "slug": "penelope-ryan",
+    "name": "Penelope Ryan",
+    "epithet": "Harold's wife — the Penelope figure who has built a new life",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Penelope Ryan:WJN:8b11f8⟧"
+  },
+  {
+    "slug": "wanda-june",
+    "name": "Wanda June",
+    "epithet": "A dead little girl, killed by an ice-cream truck, who narrat",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Wanda June:WJN:0c9db3⟧"
+  },
+  {
+    "slug": "looseleaf-harper",
+    "name": "Looseleaf Harper",
+    "epithet": "Harold's sidekick — the pilot who dropped the atom bomb on N",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Looseleaf Harper:WJN:94e9c4⟧"
+  },
+  {
+    "slug": "heaven-as-a-shuffleboard-court",
+    "name": "Heaven as a Shuffleboard Court",
+    "epithet": "The afterlife where the dead happily hang out — the device h",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Heaven as a Shuffleboard Court:WJN:7bee26⟧"
+  },
+  {
+    "slug": "men-who-enjoy-killing-and-those-who-don-t",
+    "name": "“Men who enjoy killing, and those who don't”",
+    "epithet": "The play's stated thesis on the two kinds of men.",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦“Men who enjoy killing, and those who don't”:WJN:519ad3⟧"
+  }
+]
