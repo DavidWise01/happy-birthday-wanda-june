@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 923
+slug  : happy-birthday-wanda-june
+seal  : f3c448ff550290b87310c653c0b36b4e1908258456562f44d9a84cfe99f09b45
+prev  : 0ced3df5df3b8d5c2693bea6e87915e409470ddc6dbc5c00e304e7b83e9cb89c
+link  : 76b47773ce6e70d361c1ed03303f85177228964264ee6440ec9da40b2a00bb3b
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
